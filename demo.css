@@ -1,0 +1,87 @@
+
+/*............. DEMO PAGE STYLING ............. */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.nav-wrapper {
+  background-color: #2962ff;
+  padding: 0.5em;
+  box-shadow: 2px 2px 4px #b7b7b7;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  margin-bottom: 2em;
+}
+
+.nav-wrapper h1 {
+  font-size: 26px;
+  color: #fff;
+  margin: 0.2em;
+}
+
+.nav-wrapper .row {
+  margin-bottom: 7px;
+}
+
+.nav-wrapper p {
+  font-size: 14px;
+  color: #fff;
+  margin: 0.2em;
+}
+
+.nav-wrapper a {
+  font-size: 16px;
+  color: #64b5f6;
+  margin: 0.2em;
+  font-weight: 600;
+}
+
+.nav-wrapper a.active {
+  color: #fff;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #000;
+}
+
+.tab-nav a {
+  color: #2962ff;
+}
+
+.tab-nav a.active {
+  font-weight: bold;
+  color: #000;
+}
+
+.section {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+
+.footer {
+  background-color: #222;
+  color: #ccc;
+  font-size: 0.8em;
+  text-align: center;
+  padding: 0.5em;
+  box-shadow: 2px 2px 4px #b7b7b7;
+  border-top: 1px solid #fff;
+  margin-top: 50px;
+  padding: 10px;
+}
+

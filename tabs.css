@@ -1,0 +1,342 @@
+
+/*............. TAB STYLE 01 START ............. */
+
+.tabs-style01 .tabs {
+  height: 38px;
+  margin-bottom: 0.5em;
+}
+
+.tabs-style01 .tabs .tab {
+  background-color: #e3f2fd;
+  line-height: 38px;
+  height: 38px;
+  text-transform: capitalize;
+}
+
+.tabs-style01 .tabs .tab a {
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.tabs-style01 .tabs .tab a:focus,
+.tabs-style01 .tabs .tab a:focus.active,
+.tabs-style01 .tabs .tab a:hover,
+.tabs-style01 .tabs .tab a.active {
+  background-color: #2962ff;
+  color: #e3f2fd;
+}
+
+.tabs-style01 .indicator {
+  height: 34px;
+  background-color: transparent;
+  will-change: left, right;
+  margin: 2px;
+  border: 2px solid #e3f2fd;
+}
+
+.tabs-style01 .tab-content {
+  border: 1px solid #ccc;
+  padding: 0 14px;
+  line-height: 24px;
+  font-size: 0.955em;
+}
+
+.tabs-style01 .tab-content h2 {
+  font-size: 1.4em;
+  color: #000;
+  margin: 16px 0 0 0;
+}
+
+.tabs-style01 .tab-content img {
+  margin: 16px 0 0 0;
+}
+
+.tabs-style01 .tab-content p {
+  margin: 8px 0 15px 0;
+}
+
+
+/*............. TAB STYLE 01 END ............. */
+
+
+/*............. TAB-STYLE 02 START ............. */
+
+.tabs-style02 .tabs {
+  height: 38px;
+  margin-bottom: 0.5em;
+}
+
+.tabs-style02 .tabs .tab {
+  background-color: #e3f2fd;
+  line-height: 38px;
+  height: 38px;
+  text-transform: capitalize;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.tabs-style02 .tabs .tab a {
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.tabs-style02 .tabs .tab a:focus,
+.tabs-style02 .tabs .tab a:focus.active,
+.tabs-style02 .tabs .tab a:hover,
+.tabs-style02 .tabs .tab a.active {
+  background-color: #2962ff;
+  color: #e3f2fd;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.tabs-style02 .tabs .indicator {
+  height: 34px;
+  background: transparent;
+  will-change: left, right;
+  border: 2px solid #fff;
+  margin: 2px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.tabs-style02 .tab-content {
+  border: 1px solid #ccc;
+  padding: 0 14px;
+  line-height: 24px;
+  font-size: 0.955em;
+}
+
+.tabs-style02 .tab-content h2 {
+  font-size: 1.4em;
+  color: #000;
+  margin: 16px 0 0 0;
+}
+
+.tabs-style02 .tab-content img {
+  margin: 16px 0 0 0;
+}
+
+.tabs-style02 .tab-content p {
+  margin: 8px 0 15px 0;
+}
+
+
+/*............. TAB STYLE 02 END ............. */
+
+
+/*............. TAB-STYLE 03 START ............. */
+
+.tabs-style03 .tabs {
+  height: 38px;
+  margin-bottom: 0.5em;
+}
+
+.tabs-style03 .tabs .tab {
+  background-color: #e3f2fd;
+  line-height: 38px;
+  height: 38px;
+  text-transform: capitalize;
+  border-radius: 15px;
+}
+
+.tabs-style03 .tabs .tab a {
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 15px;
+}
+
+.tabs-style03 .tabs .tab a:focus,
+.tabs-style03 .tabs .tab a:focus.active,
+.tabs-style03 .tabs .tab a:hover,
+.tabs-style03 .tabs .tab a.active {
+  color: #fff;
+  background-color: #2962ff;
+  border-radius: 15px;
+}
+
+.tabs-style03 .tabs .indicator {
+  height: 34px;
+  background-color: transparent;
+  will-change: left, right;
+  border-radius: 13px;
+  margin: 2px;
+  border: 2px solid #fff;
+}
+
+.tabs-style03 .tab-content {
+  border: 1px solid #ccc;
+  padding: 0 14px;
+  line-height: 24px;
+  font-size: 0.955em;
+}
+
+.tabs-style03 .tab-content h2 {
+  font-size: 1.4em;
+  color: #000;
+  margin: 16px 0 0 0;
+}
+
+.tabs-style03 .tab-content img {
+  margin: 16px 0 0 0;
+}
+
+.tabs-style03 .tab-content p {
+  margin: 8px 0 15px 0;
+}
+
+
+/*............. TAB STYLE 03 END ............. */
+
+
+/*............. TAB-STYLE 04 START ............. */
+
+.tabs-style04 .tabs {
+  height: 38px;
+  margin-bottom: 0.5em;
+}
+
+.tabs-style04 .tab {
+  background-color: #e3f2fd;
+  line-height: 38px;
+  height: 38px;
+  text-transform: capitalize;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+}
+
+.tabs-style04 .tab a {
+  background-color: #e3f2fd;
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+}
+
+.tabs-style04 .tab a:focus,
+.tabs-style04 .tab a:focus.active,
+.tabs-style04 .tab a:hover,
+.tabs-style04 .tab a.active {
+  color: #fff;
+  background-color: #2962ff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+}
+
+.tabs-style04 .indicator {
+  height: 34px;
+  background-color: transparent;
+  will-change: left, right;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+  margin: 2px;
+  border: 2px solid #fff;
+}
+
+.tabs-style04 .tab-content {
+  border: 1px solid #ccc;
+  padding: 0 14px;
+  line-height: 24px;
+  font-size: 0.955em;
+}
+
+.tabs-style04 .tab-content h2 {
+  font-size: 1.4em;
+  color: #000;
+  margin: 16px 0 0 0;
+}
+
+.tabs-style04 .tab-content img {
+  margin: 16px 0 0 0;
+}
+
+.tabs-style04 .tab-content p {
+  margin: 8px 0 15px 0;
+}
+
+
+/*............. TAB STYLE 04 END ............. */
+
+/*............. TAB-STYLE 04 START ............. */
+
+.tabs-style05 .tabs {
+  height: 38px;
+  margin-bottom: 0.5em;
+}
+
+.tabs-style05 .tab {
+  background-color: #e3f2fd;
+  line-height: 38px;
+  height: 38px;
+  text-transform: capitalize;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 5px;
+}
+
+.tabs-style05 .tab a {
+  background-color: #e3f2fd;
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 5px;
+}
+
+.tabs-style05 .tab a:focus,
+.tabs-style05 .tab a:focus.active,
+.tabs-style05 .tab a:hover,
+.tabs-style05 .tab a.active {
+  color: #fff;
+  background-color: #2962ff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 5px;
+}
+
+.tabs-style05 .indicator {
+  height: 34px;
+  background-color: transparent;
+  will-change: left, right;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 5px;
+  margin: 2px;
+  border: 2px solid #fff;
+}
+
+.tabs-style05 .tab-content {
+  border: 1px solid #ccc;
+  padding: 0 14px;
+  line-height: 24px;
+  font-size: 0.955em;
+}
+
+.tabs-style05 .tab-content h2 {
+  font-size: 1.4em;
+  color: #000;
+  margin: 16px 0 0 0;
+}
+
+.tabs-style05 .tab-content img {
+  margin: 16px 0 0 0;
+}
+
+.tabs-style05 .tab-content p {
+  margin: 8px 0 15px 0;
+}
+
+
+/*............. TAB STYLE 04 END ............. */
+
